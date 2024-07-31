@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋</h1>
-<h3 align="center">I am an Engineering Student. I code in Kotlin, C++, JavaScript and java</h3>
+<h1 >Hello there 👋</h1>
+<h3>I am an Engineering Student. I code in Kotlin, C++, JavaScript and java</h3>
 
 - 🔭 I’m Learning **KMM/KMP in my free time**
 
