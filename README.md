@@ -1,5 +1,6 @@
-<h1 >Hello there 👋</h1>
-<h3>I am an Engineering Student. I code in Kotlin, C++, JavaScript and java</h3>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hi👋, I'm Yatin Garg</h1>
+<h3 align="center">I am an Engineering Student. I code in Kotlin, C++, JavaScript and java</h3>
 
 - 🔭 I’m Learning **KMM/KMP in my free time**
 
